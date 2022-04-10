@@ -20,18 +20,6 @@ namespace LottoSzimulacio
         {
             InitializeComponent();
         }
-
-        /*
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            btnSorsol.Enabled = false;
-            this.Size = new Size(500, 400);
-            panel1.BackColor = Color.GreenYellow;
-            panel1.Size = new Size(300, 200);
-            for (int x = 0; x < )
-        }
-        */
-
         
         private void Form1_Load(object sender, EventArgs e)
         {
